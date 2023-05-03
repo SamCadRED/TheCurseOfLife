@@ -7,6 +7,7 @@ Repo for The Curse Of Life game idea and development
 - Vue en 3D isométrique
 - Dark Medieval Fantasy
 - Exploration / Combat / Craft(?) 
+- Compatible linux
 
 ## Gameplay 
 > Le bon chemin est celui rempli d'ennemis
@@ -14,4 +15,27 @@ Repo for The Curse Of Life game idea and development
 - Zones Ouvertes
 - Combat rapide et dynamique  
 - Déplacement dynamique
+- Loot et inventaire au format "Case", pas au poids
+- Système de "mutation" (magie) ave une jauge (muté = puissant, avec un coté négatif) 
 
+## Ennemis 
+- priviligiér des hordes d'ennemis plutôt que des gros boss tank 
+
+## Monde 
+- Forêts, montagnes, Fjords(?), Volcan
+- Chateaux en ruine, mausolés, Donjons occupés, grottes, mines 
+- Villages (occupés ou pas)
+
+## Lore 
+- Medieval fantasy avec un peu de magie 
+- Magie du sang et des os (~mutations)
+
+# Protagoniste et Quête principale 
+
+## Protagoniste
+- Loup-garou ?
+- Est "maudit" et peut donc se metamorphoser
+  - Trouver des points négatif qui soient cools en terme de gameplay 
+
+## Quête principale 
+- Explorer les origines et la cause de sa malédiction 
