@@ -33,7 +33,7 @@ ________
   - si elle convient on accepte et achète le point, ce qui révèle l'autre face
 
 ## Gameplay 
-~ Le bon chemin est celui ou il y a des ennemis 
+> Le bon chemin est celui ou il y a des ennemis 
 
 - les ennemis ne respawn pas comme si de rien n'était
 - Exploration est très importante
