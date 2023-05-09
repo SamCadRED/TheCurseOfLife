@@ -27,6 +27,8 @@
 - priviligiér des hordes d'ennemis plutôt que des gros boss tank 
 
 ## Monde 
+### [Monde](https://github.com/SamCadRED/TheCurseOfLife/blob/9b2cc582e4e8dc92ae1ae02b34e2ddaa7d7319d4/non_technique/monde.md)
+
 - Forêts, montagnes, Fjords(?), Volcan
 - Chateaux en ruine, mausolés, Donjons occupés, grottes, mines 
 - Villages (occupés ou pas)
