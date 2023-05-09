@@ -1,6 +1,8 @@
 # The Curse Of Life
 > Je vais mettre ici les idées principales de développement de mon jeu The Curse Of Life
 
+## [Roadmap](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/roadmap.md)
+
 ## Spécifications : 
 - Jeu de type Action RPG 
 - Vue en 3D isométrique
