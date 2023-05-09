@@ -13,7 +13,7 @@
 # Gameplay 
 > Le bon chemin est celui rempli d'ennemis  
 
-### [Gameplay](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/gameplay.md)
+### [Gameplay](https://github.com/SamCadRED/TheCurseOfLife/blob/b59cb431013a170bbb9b77f16e0561595517edbc/non_technique/gameplay.md)
 
 - Exploration de Donjon (semi-procéduraux)
 - Combat rapide et dynamique  
@@ -22,7 +22,7 @@
 - Progression du personnage (stuff et sang)
 
 ## Ennemis 
-### [Ennemis](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/ennemis.md)
+### [Ennemis](https://github.com/SamCadRED/TheCurseOfLife/blob/b59cb431013a170bbb9b77f16e0561595517edbc/non_technique/ennemis.md)
 
 - priviligiér des hordes d'ennemis plutôt que des gros boss tank 
 
@@ -33,7 +33,7 @@
 
 # Protagoniste et Histoire 
 
-### [Histoire](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/histoire.md)
+### [Histoire](https://github.com/SamCadRED/TheCurseOfLife/blob/b59cb431013a170bbb9b77f16e0561595517edbc/non_technique/histoire.md)
 
 ## Protagoniste
 - Forgeron 
