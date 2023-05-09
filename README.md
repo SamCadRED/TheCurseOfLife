@@ -1,7 +1,7 @@
 # The Curse Of Life
 > Je vais mettre ici les idées principales de développement de mon jeu The Curse Of Life
 
-## [Roadmap](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/roadmap.md)
+## [Roadmap](https://github.com/SamCadRED/TheCurseOfLife/blob/6b03d4bd9db6532801ee1a999c625a4f5eeff122/roadmap.md)
 
 ## Spécifications : 
 - Jeu de type Action RPG 
