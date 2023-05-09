@@ -11,6 +11,8 @@ ________
 - système de classe / race (?) 
 - Tu commence le jeu dans la zone de ta classe/race 
 
+Pour quoi pas un système de double game play, guerrier/artisan le jour, loup-garou la nuit 
+
 ### Classes / Races
 - **Varan** (Raegral)
   - désert/marais
