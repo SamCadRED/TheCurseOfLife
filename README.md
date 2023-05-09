@@ -28,10 +28,6 @@ Repo for The Curse Of Life game idea and development
 - Chateaux en ruine, mausolés, Donjons occupés, grottes, mines 
 - Villages (occupés ou pas)
 
-## Lore 
-- Medieval fantasy avec un peu de magie 
-- Magie du sang et des os (~mutations)
-
 # Protagoniste et Histoire 
 
 ### [Histoire](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/histoire.md)
