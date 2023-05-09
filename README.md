@@ -10,7 +10,7 @@
 - Exploration / Combat / Craft
 - Compatible linux
 
-## Gameplay 
+# Gameplay 
 > Le bon chemin est celui rempli d'ennemis  
 
 ### [Gameplay](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/gameplay.md)
@@ -22,6 +22,8 @@
 - Progression du personnage (stuff et sang)
 
 ## Ennemis 
+### [Ennemis](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/ennemis.md)
+
 - priviligiér des hordes d'ennemis plutôt que des gros boss tank 
 
 ## Monde 
