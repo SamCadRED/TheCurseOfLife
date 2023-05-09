@@ -10,8 +10,9 @@ Repo for The Curse Of Life game idea and development
 - Compatible linux
 
 ## Gameplay 
-> Le bon chemin est celui rempli d'ennemis
-[Gameplay](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/gameplay.md)
+> Le bon chemin est celui rempli d'ennemis  
+
+### [Gameplay](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/gameplay.md)
 
 - Exploration de Donjon (semi-procéduraux)
 - Combat rapide et dynamique  
@@ -33,7 +34,7 @@ Repo for The Curse Of Life game idea and development
 
 # Protagoniste et Histoire 
 
-[Histoire](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/histoire.md)
+### [Histoire](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/histoire.md)
 
 ## Protagoniste
 - Forgeron 
