@@ -11,8 +11,9 @@ Repo for The Curse Of Life game idea and development
 
 ## Gameplay 
 > Le bon chemin est celui rempli d'ennemis
+[Gameplay](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/gameplay.md)
+
 - Exploration de Donjon (semi-procéduraux)
-- Zones Ouvertes
 - Combat rapide et dynamique  
 - Déplacement dynamique
 - Loot et inventaire au format "Case", pas au poids
@@ -30,7 +31,9 @@ Repo for The Curse Of Life game idea and development
 - Medieval fantasy avec un peu de magie 
 - Magie du sang et des os (~mutations)
 
-# Protagoniste et Quête principale 
+# Protagoniste et Histoire 
+
+[Histoire](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/histoire.md)
 
 ## Protagoniste
 - Forgeron 
