@@ -24,4 +24,6 @@
 - salle de trésor
 - Chambre de VIP 
 - Prisons
--  
+- Tranchées de mines
+- Lieu de stockage de matériaux 
+- Cantina
