@@ -9,8 +9,8 @@
 > Les salles des donjons
 ## Salles de base 
 - On va les mesurer en bloc² (L\*l en nombre de bloc) 
-- Environ une 10aine par donjon
-- Les rooms sont grandes 
+- Environ une 10aine (de salles) par donjon
+- Salles plutôt grandes *(en comparaison avec les salles de cult of the lamb ou moolighter)*
 - Des "rooms couloirs" ou escaliers 
 
 ## Elements des salles 
