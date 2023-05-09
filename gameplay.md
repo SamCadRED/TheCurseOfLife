@@ -24,9 +24,9 @@ ___________
  - Soin rapide via potion 
  - Roulade
  - 3 "style de combats", similaires a des postures :
-  - Normal (Arme dans une main bouclier dans l'autre)
-  - Rapide (même config que norma mais plus rapide donc moins de portée)
-  - Lourd (Prend l'arme a deux main et va effectuer plus de dégats, vitesse normale, plus de portée, moins de défense) 
+    - Normal (Arme dans une main bouclier dans l'autre)
+    - Rapide (même config que norma mais plus rapide donc moins de portée)
+    - Lourd (Prend l'arme a deux main et va effectuer plus de dégats, vitesse normale, plus de portée, moins de défense) 
 
 ### Loup-Garou
 - Posture debout ou à 4 pattes (à 4 pattes = plus rapide sur le déplacement)
@@ -35,18 +35,18 @@ ___________
 - Soin en bouffant un ennemi
 - Dash (pas de roulade) 
 - Styles de combats remplacés pas des "façon d'attaquer"
- - Normal : coup de griffe circulaire et grab pour finish un adversaire (à 4 pattes : petite morsures et attrape à la jugulaire)
- - Rapide : coup de griffe circulaire (moins de portée, + rapide) et coup de poing vers le bas (à 4 pattes c'est coup de museau vers l'avant)
- - Lourd : coups de griffes (+lent mais gros dégats et portée) et tornade sur soi même (idem à 4 pattes)
+   - Normal : coup de griffe circulaire et grab pour finish un adversaire (à 4 pattes : petite morsures et attrape à la jugulaire)
+   - Rapide : coup de griffe circulaire (moins de portée, + rapide) et coup de poing vers le bas (à 4 pattes c'est coup de museau vers l'avant)
+   - Lourd : coups de griffes (+lent mais gros dégats et portée) et tornade sur soi même (idem à 4 pattes)
 
 ## Craft 
 - Créer des nouveau objets (armes, armure et équipement) ou améliorer les existants
 - "Runes" à forger dans les objets
 - matériaux : 
- - Fer, Acier, Cuivre, Or, Argent, Dimeterium 
- - Bois
- - Tissus et Cuir
- - Ivoire / Os
+   - Fer, Acier, Cuivre, Or, Argent, Dimeterium 
+   - Bois
+   - Tissus et Cuir
+   - Ivoire / Os
 - Possibilité de faire des alliages entre métaux ou métal et minerai
 
 ## Contrôles
