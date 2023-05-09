@@ -33,9 +33,8 @@ Repo for The Curse Of Life game idea and development
 # Protagoniste et Quête principale 
 
 ## Protagoniste
-- Loup-garou ?
-- Est "maudit" et peut donc se metamorphoser
-  - Trouver des points négatif qui soient cools en terme de gameplay 
+- Forgeron 
+- Loup-garou (malédiction à combattre ou embrasser)
 
 ## Quête principale 
 - Explorer les origines et la cause de sa malédiction 
