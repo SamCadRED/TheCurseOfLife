@@ -6,7 +6,7 @@ Repo for The Curse Of Life game idea and development
 - Jeu de type Action RPG 
 - Vue en 3D isométrique
 - Dark Medieval Fantasy
-- Exploration / Combat / Craft(?) 
+- Exploration / Combat / Craft
 - Compatible linux
 
 ## Gameplay 
