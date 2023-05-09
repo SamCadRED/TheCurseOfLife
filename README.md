@@ -43,3 +43,10 @@
 
 ## Quête principale 
 - Explorer les origines et la cause de sa malédiction 
+
+
+## Références / Influences
+- Cult of the lamb (DA visuelle)
+- Moonlighter (Musique, gameplay, DA visuelle)
+- Skyrim (craft/combat/ambiance)
+- Diablo (gameplay/combat) 
