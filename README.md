@@ -18,7 +18,7 @@ Repo for The Curse Of Life game idea and development
 - Combat rapide et dynamique  
 - Déplacement dynamique
 - Loot et inventaire au format "Case", pas au poids
-- Système de "mutation" (magie) ave une jauge (muté = puissant, avec un coté négatif) 
+- Progression du personnage (stuff et sang)
 
 ## Ennemis 
 - priviligiér des hordes d'ennemis plutôt que des gros boss tank 
