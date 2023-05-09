@@ -1,5 +1,10 @@
 # Roadmap du développement du Jeu
 
+# Pré-étape : 
+- Set-up environnement de dev unity
+- Voir si possible de dev linux only ou win only ou cross
+- Essayer d'intégrer le cross save dès le début du développement
+
 # 1. Créer un donjon jouable
 
 ## A. Créer une pièce 
@@ -9,7 +14,7 @@
 - Un ou plusieurs ennemis (non animé, sans IA) 
 - Des collisions avec les Murs / HitBoxes
 
-## b. Des interactions 
+## b. Des interactions
 > Implémenter des interractions
 - Ajouter un coffre 
 - Une arme 
