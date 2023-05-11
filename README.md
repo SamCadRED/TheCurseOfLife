@@ -1,43 +1,54 @@
 # The Curse Of Life
-> Je vais mettre ici les idées principales de développement de mon jeu The Curse Of Life
+> Here are all the main ideas and development of my Game The Curse Of Life
 
-## [Roadmap](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/roadmap.md)
+## [Roadmap](roadmap.md)
 
-## Spécifications : 
-- Jeu de type Action RPG 
-- Vue en 3D isométrique
-- Dark Medieval Fantasy
-- Exploration / Combat / Craft
-- Compatible linux
+## Synopsis
+
+You are a former soldier cursed by a foreign god when ravaging and pillaging the north of the continent.  
+Now retired in a village far in the south you start to understand the consequences of the curse. You cannot live the bloodless and calm life you wished for after the war, because you are now a werewolf.  
+Your only goal is to get back and find the dark temple to lift the curse.  
+  
+On the world map there will be dungeons above and underground. Some will be connected by tunnels (which will serve as fast travel). 
+You will be able to find loot as a warrior in these proceduraly generated dungeons.  
+But sometimes you will have to fulfill the need for blood and will massacre entire villages as a werewolf. Consuming blood will heal you but also improve your constitution.
+  
+The game will feature fast paced action and combat as werewold and warrior and crawl in proceduraly generated dungeons and villages to collect objects and blood from living and undead foes.
+
+## Specifications : 
+- Action RPG game 
+- 3D isometric view 
+- Dark Medieval Fantasy Lore/story
+- Exploration / Combat / Crafting
+- Linux compatible
 
 # Gameplay 
-> Le bon chemin est celui rempli d'ennemis  
+> the right path is the one full of enemies  
 
-### [Gameplay](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/gameplay.md)
+### [Gameplay](specs/gameplay.md)
 
-- Exploration de Donjon (semi-procéduraux)
-- Combat rapide et dynamique  
-- Déplacement dynamique
-- Loot et inventaire au format "Case", pas au poids
-- Progression du personnage (stuff et sang)
+- Explore proceduraly generated dungeons as a warrior and/or a werewolf
+- Fast paced and dynamic 
+- Loot and inventory 
+- Character progression (using loot and blood)
 
-## Ennemis 
-### [Ennemis](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/ennemis.md)
+## Foes 
+### [Foes](specs/foes.md)
 
-- priviligiér des hordes d'ennemis plutôt que des gros boss tank 
+- Lots of foes rather than big tanky bosses
 
-## Monde 
-- Forêts, montagnes, Fjords(?), Volcan
-- Chateaux en ruine, mausolés, Donjons occupés, grottes, mines 
-- Villages (occupés ou pas)
+## World 
+- Forest, Moutain, Fjord, maybe volcano
+- Dungeons, castle ruins, abandonned mines, mausoleum, caves, etc...
+- Villages sometimes with and without population
 
 # Protagoniste et Histoire 
 
-### [Histoire](https://github.com/SamCadRED/TheCurseOfLife/blob/beb9ec0f04b0178ac165bcb5936cb218b433baa4/histoire.md)
+### [Histoire](specs/story.md)
 
-## Protagoniste
-- Forgeron 
-- Loup-garou (malédiction à combattre ou embrasser)
+## Main character
+- Blacksmith 
+- Werewolf (Curse you need to lift, or embrace....)
 
-## Quête principale 
-- Explorer les origines et la cause de sa malédiction 
+## Main quest
+- discover the origins ot your curse 

@@ -1,16 +1,20 @@
-# Roadmap of the game development
-> This will detail the current step of the development of the game I'm in.
+# Roadmap du développement du Jeu
 
-# 1. Create a playbale dungeon
+# Pré-étape : 
+- Set-up environnement de dev unity
+- Voir si possible de dev linux only ou win only ou cross
+- Essayer d'intégrer le cross save dès le début du développement
 
-## A. Start with a room 
-### a. Basics
+# 1. Créer un donjon jouable
+
+## A. Créer une pièce 
+### a. Les bases
 - Il faudra créer une pièce dans Unity, tout les paramètres doivent être dynamiques
 - Un personnage (non animé d'abord) qui peut s'y déplacer
 - Un ou plusieurs ennemis (non animé, sans IA) 
 - Des collisions avec les Murs / HitBoxes
 
-## b. Interactions
+## b. Des interactions
 > Implémenter des interractions
 - Ajouter un coffre 
 - Une arme 
@@ -18,9 +22,9 @@
 - Des PV (ennemis et perso) 
 - Une IA pour les ennemis 
 
-## B. Generate several connected rooms 
+## B. Créer plusieurs pièces de manière procédurale
 
-## C. Create a "final" room
+## C. Créer une pièce "Finale"
 
 
 ______
