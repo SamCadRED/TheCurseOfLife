@@ -18,7 +18,7 @@ ___________
  ## Combat 
  ### Humain 
  - 2 set d'armes
- - Attaque normale et attaque lourde / de zone
+ - Attaque normale et attaque lourde/de zone
  - Parade avec l'arme ou le bouclier
  - Parade maintenue + attaque lourde 
  - Soin rapide via potion 
@@ -53,6 +53,7 @@ ___________
 - (A) interactions
 - (Stick Gauche) Déplacements
 - (Stick droit) Oriente la caméra 
+- (Clic stick) à gauche range ou sort le bouclier, à droite range ou sort l'arme équipée (forme loup juste rentrer sortir les griffes)
 - (X) attaque normale
 - (Y) attaque lourde
 - (L2) Parade 
