@@ -3,7 +3,7 @@
 ## Pré-étape : 
 - Set-up environnement de dev Unity (ou GameMaker)
 - Essayer d'intégrer le cross save dès le début du développement
-> J'aimerais arriver à un résultat similaire à [ça]() à la fin de l'étape 1.
+> J'aimerais arriver à un résultat similaire à [ça](https://www.reddit.com/r/Unity2D/comments/13eedil/how_it_started_vs_how_its_going_pixel_fortress/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1)à la fin de l'étape 1.
 
 # 1. Créer un donjon jouable
 > L'idée ici serait de partir d'une pièce puis d'un donjon entier généré procéduralement.
