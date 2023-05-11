@@ -1,8 +1,9 @@
 # Roadmap du développement du Jeu
 
-# Pré-étape : 
+## Pré-étape : 
 - Set-up environnement de dev Unity (ou GameMaker)
 - Essayer d'intégrer le cross save dès le début du développement
+> J'aimerais arriver à un résultat similaire à [ça]() à la fin de l'étape 1.
 
 # 1. Créer un donjon jouable
 > L'idée ici serait de partir d'une pièce puis d'un donjon entier généré procéduralement.
