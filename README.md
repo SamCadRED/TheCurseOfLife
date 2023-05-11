@@ -42,9 +42,9 @@ The game will feature fast paced action and combat as werewold and warrior and c
 - Dungeons, castle ruins, abandonned mines, mausoleum, caves, etc...
 - Villages sometimes with and without population
 
-# Protagoniste et Histoire 
+# Story and hero
 
-### [Histoire](specs/story.md)
+### [Story](specs/story.md)
 
 ## Main character
 - Blacksmith 
@@ -54,8 +54,8 @@ The game will feature fast paced action and combat as werewold and warrior and c
 - discover the origins ot your curse 
 
 
-## Références / Influences
-- Cult of the lamb (DA visuelle)
-- Moonlighter (Musique, gameplay, DA visuelle)
+## References / Influences
+- Cult of the lamb (Visual Art, gameplay)
+- Moonlighter (Music, gameplay, Visual Art)
 - Skyrim (craft/combat/ambiance)
 - Diablo (gameplay/combat) 
