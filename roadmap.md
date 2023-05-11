@@ -1,11 +1,13 @@
 # Roadmap du développement du Jeu
 
 # Pré-étape : 
-- Set-up environnement de dev unity
-- Voir si possible de dev linux only ou win only ou cross
+- Set-up environnement de dev Unity (ou GameMaker)
 - Essayer d'intégrer le cross save dès le début du développement
 
 # 1. Créer un donjon jouable
+> L'idée ici serait de partir d'une pièce puis d'un donjon entier généré procéduralement.
+> Il serait entièrement jouable et sur plusieurs plateformes (Windows, Android, Linux), de la cross-save si possible.   
+> Idéalement, on conserverait le loot après chaque run.
 
 ## A. Créer une pièce 
 ### a. Les bases
@@ -14,7 +16,7 @@
 - Un ou plusieurs ennemis (non animé, sans IA) 
 - Des collisions avec les Murs / HitBoxes
 
-## b. Des interactions
+### b. Des interactions
 > Implémenter des interractions
 - Ajouter un coffre 
 - Une arme 
@@ -22,11 +24,12 @@
 - Des PV (ennemis et perso) 
 - Une IA pour les ennemis 
 
-## B. Créer plusieurs pièces de manière procédurale
+### c. Créer plusieurs salles et les lier 
 
-## C. Créer une pièce "Finale"
-
-
+## Ajout un système de Jeu 
+### a. Implémenter une ébauche d'UI
+### b. Life/death sytem
+### c. Save system
 ______
 
 Une fois cela fait il faudra : 
