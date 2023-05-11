@@ -1,7 +1,7 @@
 # Roadmap of the game development
 > This will detail the current step of the development of the game I'm in.
 
-# 1. Create a playbale dungeon
+# 1. Create a playable dungeon
 
 ## A. Start with a room 
 ### a. Basics

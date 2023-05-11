@@ -52,3 +52,10 @@ The game will feature fast paced action and combat as werewold and warrior and c
 
 ## Main quest
 - discover the origins ot your curse 
+
+
+## Références / Influences
+- Cult of the lamb (DA visuelle)
+- Moonlighter (Musique, gameplay, DA visuelle)
+- Skyrim (craft/combat/ambiance)
+- Diablo (gameplay/combat) 
