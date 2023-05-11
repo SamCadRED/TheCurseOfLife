@@ -1,41 +1,51 @@
 # Objets
 
-## Armes 
-### Épées
-- Style "the witcher" (à la fois une et deux mains)
-### Hache
-### Lance
+## Weapons 
+> All weapons are both dual and single wielded
 
-## Bouclier
-### Petit (style viking)
-### Gros (style légionnaire)
+### Sword
+- The witcher style sword, not short neither long (can be dual or single wielded)
+### Haxxes
+### Spears
 
-## Armure
-### Casque
-### Torse
-### Bottes
+## Shield
+### Small (viking style)
+### Large (Roman legion-ish)
 
-## Matériaux
-### Métaux
-- Fer
-- Acier 
-- Cuivre
-- Or
-- Argent
+## Armor
+### Helm
+### Torso
+### Foot
+
+## Materials
+### Metals
+- Iron
+- Steel 
+- Copper
+- Gold
+- Silver
 - Dimeterium
 
-### Textile/Cuir 
-- Tissu (laine/Coton ?)
-- Cuir
+### Fabric
+- Fabric (wool/Cutton ?)
+- Leather
 
-### Bois
+### Wood
+- normal
+- hardwood 
 
 ### Consommables
-- Charbon
-- Eau
-- Potions de soin 
-- Sang d'ennemis (forme bestiale) 
+- Coal
+- Water
+- Health vials
+- Ennemy Blood 
 
-## Objet de crafts
-### Forge
-- Avec Fonderie, enclume, établi
+
+## Others
+### Runes
+### Money
+
+## Forge
+- Foundry
+- anvil
+- workbench
