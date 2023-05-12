@@ -1,3 +1,23 @@
-# Musique 
-> Environ 25 et 30 titres (1h/1h30 de contenu)
-> Entre 2 et 3 min par titre 
+# Music
+> Between 25 and 30 tracks (1h/1h30 content)
+> About 2 and 3 minutes per title 
+
+## Asthetic
+- Dark and ominous ambiance overall
+- organic synths (exemple the intro of "hate you" by poylow)  
+- Strings and organs
+- a pinch of trap drums (?) 
+
+## Influences
+- moonlighter music
+- Demon's souls
+- wardrunna (band) 
+- Fortissax (own track)
+
+## Tracklist ideas
+- main theme (menu) 
+- in the forge
+- Curse theme
+- Warrior Theme
+- Dungeon type 1
+- Ravaging 
