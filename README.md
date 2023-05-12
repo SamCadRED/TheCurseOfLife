@@ -58,5 +58,6 @@ The game will feature fast paced action and combat as werewold and warrior and c
 - Cult of the lamb (Visual Art, gameplay)
 - Blasphemous (Music, Art)
 - Moonlighter (Music, gameplay, Visual Art)
+- Moonscars (Visual Art, gameplay)
 - Skyrim (craft/combat/ambiance)
 - Diablo (gameplay/combat) 
