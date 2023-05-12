@@ -1,5 +1,5 @@
 # Music
-> Between 25 and 30 tracks (1h/1h30 content)
+> Between 25 and 30 tracks (1h/1h30 content)  
 > About 2 and 3 minutes per title 
 
 ## Asthetic
