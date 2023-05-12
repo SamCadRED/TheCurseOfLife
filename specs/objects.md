@@ -1,4 +1,4 @@
-# Objets
+# Objects
 
 ## Weapons 
 > All weapons are both dual and single wielded  
