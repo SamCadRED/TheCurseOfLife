@@ -10,11 +10,11 @@
 - Try not to be suspicious in your hometown
 
 ___________
-⚠️La progression du personnage se fait donc soit par son stuff soit par sa constitution (soit les deux) en fonction de ce que choisi le joueur : 
-  - Explorer des donjons pour récupérer des reliques et objet d'amélioration (voie du forgeron = bien) 
-  - Attaquer des villages pour dévorer des gens (plus ou moins armés) et améliorer sa constitution physique (voie de la bête = mal)
-Le joueur a bien sur la possibilité de faire avancer ces deux voies en parralèles afin de devenir plus puissant
-___________
+⚠️The character progresses either with the improvement of its stuff, or the improvement of its constition (or both), it's up to the player :
+  - Explore dungeons to discover relics and objects taht may improve your stuff as a blacksmith
+  - Rampage and slaughter villages as a werewolf to drink blood out of your ennemies and strengthen your body and health
+Of course both ways work complementarily to become more powerful, should choose so 
+__________
 
  ## Combat 
  ### Human (warrior) 
