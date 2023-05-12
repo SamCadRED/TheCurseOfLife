@@ -56,6 +56,7 @@ The game will feature fast paced action and combat as werewold and warrior and c
 
 ## References / Influences
 - Cult of the lamb (Visual Art, gameplay)
+- Blasphemous (Music, Art)
 - Moonlighter (Music, gameplay, Visual Art)
 - Skyrim (craft/combat/ambiance)
 - Diablo (gameplay/combat) 
