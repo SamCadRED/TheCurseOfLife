@@ -6,7 +6,9 @@
 - Dark and ominous ambiance overall
 - organic synths (exemple the intro of "hate you" by poylow)  
 - Strings and organs
-- a pinch of trap drums (?) 
+- Pinch of trap drums (?) 
+- Electric guitars in the background
+- Epic distorted riffs 
 
 ## Influences
 - moonlighter music
